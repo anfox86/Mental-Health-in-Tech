@@ -10,3 +10,4 @@ https://www.kaggle.com/osmi/mental-health-in-tech-survey
 ### Tools
 1. Python
 2. Jupyter Notebook
+3. PowerBi
